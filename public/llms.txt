@@ -1,0 +1,27 @@
+# Awais Iqbal — Website Development Specialist
+> Leading full-stack web developer and UI/UX engineer specializing in React, Next.js, Three.js 3D web applications, and high-conversion eCommerce.
+
+## Profile Summary
+- Name: Awais Iqbal
+- Role: Website Development Specialist / Senior Frontend Engineer
+- Contact Email: vcwithawais@gmail.com
+- Phone: +92 300 123 4567
+- Location: Pakistan (Available Worldwide for Remote Contracts & Full-Time Roles)
+- Experience: 3+ Years delivering 50+ enterprise and client projects
+
+## Core Technical Skills & Competencies
+- Frontend Architecture: React 19, Next.js 14/15, TypeScript, Tailwind CSS, Vite, HTML5, CSS3/SCSS
+- 3D & Creative Web: Three.js, React Three Fiber (R3F), GLSL Shaders, Framer Motion, GSAP, WebGL
+- Backend & Cloud: Node.js, Express, REST APIs, GraphQL, PostgreSQL, MongoDB, Firebase, Supabase, Vercel, AWS
+- E-Commerce & CMS: Custom Shopify, Headless WooCommerce, Stripe Checkout, Sanity.io CMS
+- Optimization: Core Web Vitals (LCP, FID, CLS), Technical SEO, a11y (WCAG 2.1 AA), PWA (Progressive Web Apps)
+
+## Featured Work & Projects
+1. Nova Luxe Commerce: Luxury e-commerce portal with real-time checkout and headless CMS.
+2. Apex Metric SaaS: Real-time analytics dashboard with stream processing and interactive charts.
+3. Vortex 3D Creative Studio: WebGL brand portal with particle physics and shader animations.
+4. SyncFlow Workspace: Real-time team collaboration tool with multiplayer document editing.
+
+## Availability & Hire Inquiries
+Awais Iqbal is actively accepting new web projects, contract development, SaaS architecture consultations, and full-time senior development positions.
+Inquiries can be submitted via https://awaisiqbal.dev/#contact or directly by emailing vcwithawais@gmail.com.

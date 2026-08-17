@@ -1,0 +1,25 @@
+# Robots.txt for Awais Iqbal Portfolio
+# https://awaisiqbal.dev (Update with your live domain)
+
+User-agent: *
+Allow: /
+Disallow: /#admin
+
+# AI Search Crawlers Optimization
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Sitemap Location
+Sitemap: https://awaisiqbal.dev/sitemap.xml
